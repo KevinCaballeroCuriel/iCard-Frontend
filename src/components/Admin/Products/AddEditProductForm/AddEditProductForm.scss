@@ -1,0 +1,31 @@
+.add-edit-product-form {
+  &__active {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    .ui.checkbox {
+      margin-right: 20px;
+    }
+  }
+
+  .ui.image {
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+
+  .ui.primary.button {
+    margin-top: 10px;
+  }
+
+  &__submit-image {
+    &:hover {
+      background-color: rgb(225, 225, 225);
+      border-width: 1px;
+      border-color: black;
+      border-style: dotted;
+      border-radius: 8px;
+    }
+  }
+}

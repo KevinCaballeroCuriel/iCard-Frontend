@@ -1,0 +1,20 @@
+.table-payments {
+    td {
+        .ui.image {
+          width: 100px;
+          height: 100px;
+          border-radius: 8px;
+        }
+    
+        &.status {
+          .icon {
+            &.close {
+              color: #f00;
+            }
+            &.check {
+              color: #008000;
+            }
+          }
+        }
+      }
+}
