@@ -1,4 +1,4 @@
-export const BASE_API = "https://icard-rest.herokuapp.com";
+export const BASE_API = "http://192.168.0.25:8000";
 export const TOKEN = "token";
 
 export const ORDER_STATUS = {
