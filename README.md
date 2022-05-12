@@ -8,4 +8,4 @@ After cloning or downloading a branch, you must execute the following command `y
 
 ## iCard — Backend
 
-Backend: [iCard — Backend](https://github.com/KevinCaballeroCuriel/DeerBank-Frontend) 
+Backend: [iCard — Backend](https://github.com/KevinCaballeroCuriel/iCard-Backend) 
